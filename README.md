@@ -8,6 +8,7 @@
 
 ### 참고
 [Google Developer - Splash Screen](https://developer.android.com/guide/topics/ui/splash-screen)
+
 [A Comprehensive Guide to Android 12’s Splash Screen API](https://itnext.io/a-comprehensive-guide-to-android-12s-splash-screen-api-644609c811fa)
 
 ### 구현 방법
