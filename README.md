@@ -7,6 +7,7 @@
 <img src="https://user-images.githubusercontent.com/52353492/154475616-bdb3ed26-000f-4c6f-9304-a77faba58c2e.gif" width="300" height="600"/>
 
 ### 참고
+[Google Developer - Splash Screen](https://developer.android.com/guide/topics/ui/splash-screen)
 [A Comprehensive Guide to Android 12’s Splash Screen API](https://itnext.io/a-comprehensive-guide-to-android-12s-splash-screen-api-644609c811fa)
 
 ### 구현 방법
